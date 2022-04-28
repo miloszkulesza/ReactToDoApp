@@ -11,4 +11,5 @@ root.render(
   </React.StrictMode>
 );
 //Test z galęzi BranchTest
+//BranchTest2
 reportWebVitals();
